@@ -1,8 +1,8 @@
 # rust_actix
-Demo of building a simple web server using Rust
+Demo of building a simple web server using Rust. Tested on Mac.
 
 # installation
-Clone this repository and run `cargo build`.
+Clone this repository and run `cargo build`. This should create an executable `target/debug/rust_actix`. 
 
 # usage
 1. Open terminal in the project root.
